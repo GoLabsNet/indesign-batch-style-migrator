@@ -17,10 +17,11 @@ Designed for real production workflows.
 | Open document             | Run Batch Style Migrator              |
 | Find the styles to update | Select a reference document           |
 | Rename styles manually    | Select the document collection        |
-| Repeat for the next file  | Run a Simulation if needed            |
-| Repeat again              | Process the collection                |
-| Check every document      | Review the processing report          |
-| Repeat again...           | **Standardized document collection.** |
+| Repeat for the next file  | Process the collection                |
+| Repeat again              |                                       |
+| Repeat again...           |                                       |
+| Repeat again...           |                                       |
+| Check every document      | **Standardized document collection.**  |
 
 ---
 
