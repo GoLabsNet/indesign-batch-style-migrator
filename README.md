@@ -117,7 +117,7 @@ Support for Style Groups is planned for a future update.
 
 Standardize Adobe InDesign styles across multiple documents.
 
-**[👉 Get Batch Style Migrator on Gumroad](https://golabsnet.gumroad.com/l/batch-style-migrator)**
+**👉 https://golabsnet.gumroad.com/**
 
 ---
 
